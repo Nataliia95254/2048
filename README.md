@@ -4,7 +4,7 @@ A complete implementation of the classic  2048 game built with vanilla JavaScrip
 
 ## 🚀 Live demo
 
-Experience the live website: [2048 game]([https://play2048.co/](https://nataliia95254.github.io/2048/))
+Experience the live website: [2048 game](https://nataliia95254.github.io/2048/)
 
 ## 🛠️ Features
 
