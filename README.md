@@ -4,7 +4,7 @@ A complete implementation of the classic  2048 game built with vanilla JavaScrip
 
 ## 🚀 Live demo
 
-Experience the live website: [2048 game](https://play2048.co/)
+Experience the live website: [2048 game](https://nataliia95254.github.io/2048/)
 
 ## 🛠️ Features
 
@@ -69,8 +69,8 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/mybike.git
-   cd mybike
+   git clone https://github.com/Nataliia95254/2048
+   cd 2048
 
 2. **Install dependencies**
     ```bash

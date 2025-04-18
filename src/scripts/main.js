@@ -35,6 +35,7 @@ buttonStartGame.addEventListener('click', () => {
     buttonStartGame.classList.add('button', 'restart');
     buttonStartGame.innerText = 'Restart';
     game.start();
+    showMessage(game.status);
     game.renderBoard(game.state);
   } else if (
     game.status === Game.Status.PLAYING ||
